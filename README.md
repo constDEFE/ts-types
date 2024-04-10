@@ -10,10 +10,7 @@ default - type that comes with package by default
 
 ## Routing
 
-### common
+common - common generic types that may find its use anywhere\
+react - react-related generic types
 
-Common generic types that may find its use anywhere
 
-### react
-
-React-related generic types
